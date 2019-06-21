@@ -1,0 +1,6 @@
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/bin/Debug/Number_Guesser.exe
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/bin/Debug/Number_Guesser.pdb
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/obj/x86/Debug/Number_Guesser.csprojAssemblyReference.cache
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/obj/x86/Debug/Number_Guesser.csproj.CoreCompileInputs.cache
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/obj/x86/Debug/Number_Guesser.exe
+/Users/delaneyhanson/Documents/competencies/Number_Guesser/Number_Guesser/obj/x86/Debug/Number_Guesser.pdb
